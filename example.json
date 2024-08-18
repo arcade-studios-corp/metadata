@@ -1,0 +1,22 @@
+{
+    "modname": "Example Mod",
+    "author": "Arcade Studios",
+    "modvar": "sc3.modtitle.betafeature",
+    "htmlmetadata": "<br>",
+    "scsdkversion": "1.4 (2235:90)",
+    "gameversion": "1.2.0",
+    "backwardscompatible": "yes",
+    "contentwarning": "13+",
+    "platforms": "MAC, LINUX, WIN, HTML5",
+    "issues": "0",
+    "released": "2024-08-15",
+    "updated": "2024-08-15",
+    "modtype": "visual",
+    "license": "CC-BY-ND-4.0",
+    "compatiblewith": "Non visual mods",
+    "modsize": "15KB",
+    "advancements": {
+        "adv1": "Welcome To The Playhouse",
+        "adv2": "Master of Cubes"
+    }
+}

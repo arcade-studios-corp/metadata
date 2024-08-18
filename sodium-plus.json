@@ -1,0 +1,19 @@
+
+{
+    "modname": "Sodium+",
+    "author": "TurkFork",
+    "modvar": "mod.sodium.turkfork",
+    "htmlmetadata": "<br>",
+    "scsdkversion": "1.4 (2235:90)",
+    "gameversion": "1.0.0",
+    "backwardscompatible": "no",
+    "contentwarning": "N/A",
+    "platforms": "MAC, LINUX, WIN, HTML5",
+    "issues": "0",
+    "released": "2024-08-4",
+    "updated": "2024-08-15",
+    "modtype": "performance",
+    "license": "CC-BY-ND-4.0",
+    "notCompatibleWith": "visual mods",
+    "modsize": "0.001 KB"
+}
